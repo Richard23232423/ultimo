@@ -1,7 +1,7 @@
 <?php
-    $server = "localhost";
-    $user = "mgr_proyecto";
-    $pass = "@1b2C34!";
+    $server = "servidorderichie.mysql.database.azure.com";
+    $user = "richardarriaga";
+    $pass = "richard2244*";
     $db = "proyecto";
 
     try {	    
